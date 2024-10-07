@@ -29,9 +29,9 @@ const Footer = () => {
         {/* Contact Info Column */}
         <div className="flex flex-col space-y-3 p-4">
           <h2 className="font-bold text-lg">Contact Us</h2>
-          <p className="text-gray-600">Phone: +1 (123) 456-7890</p>
-          <p className="text-gray-600">Email: support@saascompany.com</p>
-          <p className="text-gray-600">Address: 123 SaaS Street, Tech City, USA</p>
+          <p className="text-gray-600">Phone:+91 90965 92893 </p>
+          <p className="text-gray-600">Email: info@arohisoftware.com</p>
+          <p className="text-gray-600">Shrigonda Ahmednagar Maharashtra, India </p>
         </div>
 
         {/* Newsletter and Social Media Column */}
